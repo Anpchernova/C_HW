@@ -1,0 +1,15 @@
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\kipik\OneDrive\Документы\Курс Python\C#_HW\Task1\obj\Debug\net6.0\ref\Task1.dll
