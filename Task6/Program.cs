@@ -7,7 +7,7 @@ if (number >= 100)
 {
     int a1 = number % 1000;
     int a2 = a1 / 100;
-     Console.WriteLine($"Третья цифра числа {number} -> {a2}");
+    Console.WriteLine($"Третья цифра числа {number} -> {a2}");
 }
 else
 {
