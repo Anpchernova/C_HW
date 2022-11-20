@@ -1,7 +1,7 @@
 ﻿// Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
-int[,] GetArray(int m, int n, int minValue, int maxValue)
+double[,] GetArray(int m, int n, int minValue, int maxValue)
 {
-int[,] result = new int[m, n];
+double[,] result = new double[m, n];
 
 for (int i = 0; i < m; i++)
 {
@@ -14,7 +14,7 @@ result[i, j] = new Random().Next(minValue, maxValue + 1);
 return result;
 }
 
-void PrintArray(int[,] inArray)
+void PrintArray(double[,] inArray)
 {
 for (int i = 0; i < inArray.GetLength(0); i++)
 {
@@ -32,5 +32,5 @@ int rows = int.Parse(Console.ReadLine()!);
 Console.Write("Введите кол-во стобцов: ");
 int cols = int.Parse(Console.ReadLine()!);
 
-int[,] array = GetArray(rows, cols, 0, 100);
+double[,] array = GetArray(rows, cols, 0, 5);
 PrintArray(array);
