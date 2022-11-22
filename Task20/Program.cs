@@ -33,13 +33,22 @@ void SearchNumber(int[,] inArray)
 {
     Console.WriteLine("Введите число: ");
     int N = int.Parse(Console.ReadLine()!);
+    int k = -1;
+    int l = -1;
     for (int i = 0; i < inArray.GetLength(0); i++)
     {
         for (int j = 0; j < inArray.GetLength(1); j++)
         {
-            if (N == inArray[i, j]) Console.WriteLine($"Число в массиве находится на позиции {(i, j)} \t");
+            if (N == inArray[i, j])
+            {
+                k = i;
+                l = j;
+                Console.WriteLine($"Число в массиве находится на позиции {(k, l)} \t");
+                break;
+            }
         }
     }
+    if (k == -1 &  l == -1) Console.WriteLine("Такого значения в массиве нет");
 }
 
 Console.Clear();
